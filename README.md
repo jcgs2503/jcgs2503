@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Jerry Chang
-- 👀 I’m interested in building webpage apps and mobile apps. I am more familiar with developing with React and Node.js.
+- 👋 Hi, I’m Jerry Chang. I don't work with this account often. 
+- 👀 I’m interested in building webpage apps and mobile apps. I am more familiar with developing with React and Node.js. 
 - 🌱 I’m currently learning Data Structure and Algorithm at National Taiwan University. 
-- 📫 Reach me: jcgs2503@gmail.com
+- 📫 Reach me: jcgs2503@gmail.com 
 
 ## 💻 Languages and Frameworks:
 <div>
