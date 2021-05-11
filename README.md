@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jerry Chang @jcgs2503
+- 👋 Hi, I’m Jerry Chang jcgs2503
 - 👀 I’m interested in building webpage apps and mobile apps. I am more familiar with developing with React and Node.js.
 - 🌱 I’m currently learning Data Structure and Algorithm at National Taiwan University. 
 - 📫 Reach me: jcgs2503@gmail.com
